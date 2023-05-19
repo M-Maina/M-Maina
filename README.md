@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Maina</h1>
-<h3 align="center">Python Django developer</h3>
+<h3 align="center">Python Django DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-maina&label=Profile%20views&color=0e75b6&style=flat" alt="m-maina" /> </p>
 
-- 🔭 I’m currently working on **RESTful APIs**
+- 🔭 I’m currently working With **AWS**
 
-- 🌱 I’m currently learning **Tensor Flow**
+- 🌱 I’m currently learning ** AZURE AND GCP **
 
 - 💬 Ask me about **Python, Django**
 
