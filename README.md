@@ -5,7 +5,7 @@
 
 <h3 align="left">Updates:</h3>
 
-- 🔭 I’m currently working With **AWS**
+- 🔭 I’m currently working on advancing my skills
 
 - 🌱 I’m currently preparing for K8s, Docker certifications
 
