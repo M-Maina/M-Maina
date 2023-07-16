@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geoffrey Maina</h1>
-<h3 align="center">I'm a Python/Django Developer and DevOps Engineer from Kenya. DEVOPS IS MY PASSION. Most of the times you see me writing pipelines on various languages like Python/Go/NodeJs/Java, and on DevOps i work with tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. When I'm not writing, you can find me watching Podcasts on youtube, watching sitcoms, Listening to music or playing mobile games.</h3>
+<h4 align="center">I Started as a Python/Django Developer and transitioned to DevOps Engineer from Kenya. DEVOPS IS MY PASSION. Most of the times you see me writing pipelines on various languages like Python/Go/NodeJs/Java, and on DevOps i work with tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. When I'm not writing, you can find me watching Podcasts on youtube, watching sitcoms, Listening to music or playing mobile games.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-maina&label=Profile%20views&color=0e75b6&style=flat" alt="m-maina" /> </p>
 
