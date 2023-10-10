@@ -1,17 +1,46 @@
-<h1 align="center">Hi 👋, I'm Geoffrey Maina</h1>
-<h4 align="center">I Started as a Python/Django Developer and transitioned to DevOps Engineer from Kenya. DEVOPS IS MY PASSION. Most of the times you see me writing pipelines on various languages like Python/Go/NodeJs/Java, and on DevOps i work with tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. When I'm not writing, you can find me watching Podcasts on youtube, watching sitcoms, Listening to music or playing mobile games.</h4>
+<h1 align="center">Hi 👋</h1>
+
+```bash
+apiVersion: v48
+kind: Human
+metadata:
+  name: Geoffrey Maina
+spec:
+  purpose: Help others learn container DevOps
+  locations:
+    - 
+      type: Posts
+      where: linkedIn
+    - 
+      type: Newsletter
+      where: Maina.news
+    - 
+      type: Homepage
+      where: ComingSoon.com
+    -
+      type: Podcast
+      where: ComingSoon.com/podcast
+  favorites:
+    number: 8
+    animal: 🐶
+    emoji: 🤦
+    food: 🥩
+    drink: 🥃
+```
+
+<h4 align="center">Started as a Python/Django Developer and transitioned to DevOps/DevSecOps Engineer from Kenya. Most of the times you see me writing pipelines on various languages like Python/Go/NodeJs/Java, and on DevOps i work with tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc. On DevSecOps i work with tools like Trivy, Seccomp, Selinux, DockerBench, Kubescape, Sonarqube, Synk, SysDig Falco, etc. When I'm not writing, you can find me watching Podcasts on youtube, watching sitcoms, Listening to music or playing mobile games.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-maina&label=Profile%20views&color=0e75b6&style=flat" alt="m-maina" /> </p>
 
 <h3 align="left">Updates:</h3>
 
-- 🔭 I’m currently working on advancing my skills
+- 🔭 Always advancing my skills
 
-- 🌱 I’m currently preparing for K8s, Docker certifications
+- 🌱 I’m currently preparing for K8s, AWS, Docker certifications
 
 - 🌱 I’m currently learning ** AZURE AND GCP **
 
-- 💬 Ask me about programming and DevOps!
+- 💬 Ask me about Python programming and DevOps!
 
 - 📫 How to reach me **geoffreymuchugi@gmail.com**
 
