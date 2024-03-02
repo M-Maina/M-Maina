@@ -11,15 +11,18 @@ spec:
     - 
       type: Posts
       where: linkedIn
+   - 
+      type: Blog
+      where: appsavvytalk.com/Blog
     - 
       type: Newsletter
-      where: Maina.news
+      where: appsavvytalk.com/news
     - 
       type: Homepage
-      where: ComingSoon.com
+      where: appsavvytalk.com
     -
       type: Podcast
-      where: ComingSoon.com/podcast
+      where: appsavvytalk.com/podcast
   favorites:
     number: 8
     animal: 🐶
